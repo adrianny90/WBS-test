@@ -58,6 +58,11 @@ footer {
   bottom: 0;
 }
 
+#lukasgif {
+  width: 10rem;
+  border-radius: 50px;
+}
+
 /* Responsywność */
 @media screen and (max-width: 600px) {
   nav ul li {
